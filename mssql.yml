@@ -1,6 +1,6 @@
 version: '2'
 services:
-    ola-mssql:
+    develop-mssql:
         image: microsoft/mssql-server-linux:latest
         # volumes are not supported on macOS
         # volumes:

@@ -1,6 +1,6 @@
 version: '2'
 services:
-    atlas-mysql:
+    develop-mysql:
         image: mysql:5.7.18
         # volumes:
         #     - ~/volumes/db/mysql/:/var/lib/mysql/
